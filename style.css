@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: 10px;
+}

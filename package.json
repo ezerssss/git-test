@@ -1,0 +1,17 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [],
+  "author": "Ezra Magbanua",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
